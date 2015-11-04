@@ -1,20 +1,4 @@
-name: Sea Salt Learning
-favicon: null
-layout_spectrum: 0.69617
-typography_spectrum: 0.53227
-title: Sea Salt Learning helps organisations get fit for the SOCIAL AGE.
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#ffffff'
@@ -22,8 +6,13 @@ color:
     - '#baa379'
     - '#5b8699'
     - '#5d625e'
-  brandStrength: 0.4375
-  lightness: 0.75
+  brandStrength: 0.888157
+  lightness: 0.392269
+  rhythmicContrast: 0.120888
   saturation: 0.625
-  rhythmicContrast: 0
+cta: {}
+layout_spectrum: 1
+name: Sea Salt Learning
+opengraph: {}
 purpose: []
+typography_spectrum: 0.45148
