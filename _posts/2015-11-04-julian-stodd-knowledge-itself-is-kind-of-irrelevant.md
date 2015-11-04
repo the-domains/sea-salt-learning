@@ -1,14 +1,9 @@
 ---
-author:
-  - name: FutureCollaboration
-    url: 'https://www.youtube.com/user/FutureCollaboration'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - duration
   - stodd
@@ -21,7 +16,13 @@ keywords:
   - pyramids
   - castle
 description: Uploaded by FutureCollaboration on 2014-08-27.
-inLanguage: en
+datePublished: '2015-11-04T21:11:43.268Z'
+dateModified: '2015-11-04T21:11:32.062Z'
+author:
+  - name: FutureCollaboration
+    url: 'https://www.youtube.com/user/FutureCollaboration'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=kF10ZFpr1sU&feature=applinks'
     type: ios
@@ -33,15 +34,16 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=kF10ZFpr1sU&feature=applinks'
     type: web
-isBasedOnUrl: 'https://www.youtube.com/watch?v=kF10ZFpr1sU'
 title: Julian Stodd - Knowledge itself is kind of irrelevant
-datePublished: '2015-11-04T21:05:56.868Z'
-dateModified: '2015-11-04T21:05:27.912Z'
 sourcePath: _posts/2015-11-04-julian-stodd-knowledge-itself-is-kind-of-irrelevant.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+url: julian-stodd-knowledge-itself-is-kind-of-irrelevant/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
