@@ -7,11 +7,11 @@ color:
     - '#5b8699'
     - '#5d625e'
   brandStrength: 0.4375
-  lightness: 0.494243
-  rhythmicContrast: 0.756578
-  saturation: 0.236019
+  lightness: 0.75
+  rhythmicContrast: 0
+  saturation: 0.625
 cta: {}
-layout_spectrum: 0.69617
+layout_spectrum: 0
 name: Sea Salt Learning
 opengraph: {}
 purpose: []
