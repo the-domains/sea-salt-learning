@@ -1,6 +1,6 @@
 name: Sea Salt Learning
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.5
 typography_spectrum: 0.53227
 title: Sea Salt Learning helps organisations get fit for the SOCIAL AGE.
 cta:
@@ -22,7 +22,7 @@ color:
     - '#baa379'
     - '#5b8699'
     - '#5d625e'
-  brandStrength: 0.25
+  brandStrength: 0.6875
   lightness: 0.125
   saturation: 0.25
   rhythmicContrast: 0.25
