@@ -16,8 +16,8 @@ keywords:
   - community
   - design
 description: "I've spent the last couple of days sharing stories and talking to some great people: curious, intrigued, speculating, experimenting and learning. Pondering how to take their organisations forward, how to adapt them, change them, to make them fit for the Social Age. Much of the conversation has been about what learning should look like in..."
-datePublished: '2015-11-04T19:12:18.401Z'
-dateModified: '2015-11-04T19:12:04.736Z'
+datePublished: '2015-11-04T20:50:02.289Z'
+dateModified: '2015-11-04T20:33:25.270Z'
 author:
   - name: julianstodd
     url: 'https://julianstodd.wordpress.com/author/julianstodd/'
