@@ -4,8 +4,15 @@
         <description><![CDATA[Sea Salt Learning helps organisations get fit for the SOCIAL AGE.]]></description>
         <link>https://thegrid.ai/sea-salt-learning/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 Nov 2015 21:18:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Nov 2015 21:29:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sea-salt-learning/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>An organisation restricted by technology may display certain key behaviours. It may exert control, over what systems are used and, crucially, which systems can’t be used. It will fail to provide space for experimentation and will display a marked resistance to even having the conversation (deploying Starvation and Denial antibodies). An organisation restricted by technology will use the argument that it has to control you to be safe, to remain compliant, to reduce risk, to control cost, to ensure consistency, to drive certain behaviours, to achieve global uniformity, to give you what’s best for you, to be effective. And all these things may be true.  But.</p>]]></description>
+            <link>https://thegrid.ai/sea-salt-learning/an-organisation-restricted-by-technology-may-display-certain/index.html</link>
+            <guid isPermaLink="false">e049b35f-e0e2-461a-9fa4-a6910ff86bd9</guid>
+            <pubDate>Wed, 04 Nov 2015 21:29:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Emergent Ritual]]></title>
             <description><![CDATA[<article><h1>Emergent Ritual</h1><p>The meaning of things can fall into history, even when the artefact itself persists. Like why we shake hands. Or give three kisses on the cheek. Or bow. Rituals, embedded in our culture, but not in any sense natural behaviours. They are invented, created, adopted and persist, even when the original logic and thinking of...</p><img src="https://julianstodd.files.wordpress.com/2015/10/image7.png?w=640&h=480"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://seasaltlearning.com/</link>
             <guid isPermaLink="false">40d773d1-937c-4fa0-81d6-8585395f3af7</guid>
             <pubDate>Wed, 04 Nov 2015 20:48:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>We're currently working on the 2016 events calendar: What are your must-do events/conferences next year? #DevLearn #LearningLive #mLearnCon?</p>]]></description>
-            <link>https://thegrid.ai/sea-salt-learning/were-currently-working-on-the-2016-events-calendar-what-ar/index.html</link>
-            <guid isPermaLink="false">19d1142a-42b7-4ee3-b018-ef7ef01585f0</guid>
-            <pubDate>Wed, 04 Nov 2015 20:11:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
